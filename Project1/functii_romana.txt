@@ -1,0 +1,32 @@
+Adunare
+Scadere
+Inmultire
+Impartire
+Ridicare la putere
+Modulo
+Egal
+Diferit
+Mai mic
+Mai mic sau egal
+Mai mare
+Mai mare sau egal
+Si 
+Sau 
+Xor
+Not
+Euler - 2.71828
+3.141592
+Sinus
+Cosinus
+Tangeta
+Logaritm natural
+Logaritm in baza 2
+Modul
+Radical
+Cel mai mic intreg >= cu numarul dat
+Cel mai mare intreg <= cu numarul dat
+Rotunjire
+Partea intreaga
+Maxim
+Mininm
+x, x1, X2, y, y3, mama, etc.

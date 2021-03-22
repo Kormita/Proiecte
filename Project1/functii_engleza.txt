@@ -1,0 +1,32 @@
+Addition
+Subtraction
+Multiplication
+Division
+Raising to the power
+Modulo
+Equal to
+Not equal to
+Less than
+Less than or equal to
+Greater than
+Greater than or equal to
+And
+Or
+Xor
+Not
+Euler - 2.71828
+3.141592
+Sinus
+Cosinus
+Tangent
+Natural logarithm
+Base 2 logarithm
+Absolute value
+Square root
+Smallest integer >= to a number
+Largest integer <= to a number
+Rounded to the nearest integral number
+The integral part of a number
+Maximum
+Minimum
+x, x1, x2, y, y3, mom, etc.

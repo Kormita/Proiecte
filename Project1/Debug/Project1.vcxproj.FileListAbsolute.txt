@@ -1,0 +1,4 @@
+F:\Faculate\Anul I\Semestrul I\Introducere in programare\teste\Project1\Debug\Project1.exe
+F:\Faculate\Anul I\Semestrul I\Introducere in programare\teste\Project1\Debug\Project1.pdb
+F:\Faculate\Anul I\Semestrul I\Introducere in programare\EVAL\Project1\Debug\EVAL.exe
+F:\Faculate\Anul I\Semestrul I\Introducere in programare\EVAL\Project1\Debug\EVAL.pdb
